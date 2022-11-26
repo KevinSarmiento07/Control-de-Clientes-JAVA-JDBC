@@ -1,0 +1,6 @@
+datos\ClienteDAOImple.class
+domain\ClienteDTO.class
+datos\Conexion.class
+web\ServetControlador.class
+test\ClienteTest.class
+datos\ClienteDAO.class

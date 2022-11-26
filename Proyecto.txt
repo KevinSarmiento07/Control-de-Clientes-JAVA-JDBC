@@ -1,0 +1,12 @@
+//En la clase connection nno hice bloques try catch. 
+
+
+
+<!-- 
+<ul>
+    <c:forEach var="cliente" items="${clientes}">
+        <li>${cliente.id}  ${cliente.nombre} ${cliente.apellido}  ${cliente.saldo}</li>
+        </c:forEach>
+</ul>
+-->
+
